@@ -1,0 +1,29 @@
+p {  
+    text-align: center;
+    font-family: Montserrat;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+
+}
+.title {  
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.to-do  {  
+    margin-top: 10px;
+    font-size: 25px;
+
+}
+
+.suggest {  
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.suggest:hover {
+    color: blue;  
+    
+}
